@@ -13,6 +13,7 @@ _____________________
 ![20220803_032907](https://user-images.githubusercontent.com/101976302/182500018-d76a7467-5a9a-429e-9f96-271c1ee1d61b.gif)
 
 ## 3.Add Cylinder Object 
+![e](https://user-images.githubusercontent.com/101976302/182500697-7f645587-6b55-426c-b010-6ab18c839c8c.gif)
 
 
 
