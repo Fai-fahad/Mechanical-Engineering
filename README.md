@@ -6,4 +6,7 @@ _____________________
 
 # Let's start the design!!
 1.This is how the program interface
+![11](https://user-images.githubusercontent.com/101976302/182499382-19fadcfc-4d6d-4af9-bea9-591f37ea1437.png)
+### 2.Add Cube Object.
+
 
