@@ -18,7 +18,7 @@ _____________________
 # The most important part of the robot is the link (Knee)!!
 ![n](https://user-images.githubusercontent.com/101976302/182503182-222a84a8-0b5c-4003-836e-e16f616f666e.gif)
 
-# ____________________________________________________________________________________________________________
+
 
 ![The final result](https://user-images.githubusercontent.com/101976302/182503834-e86c6876-27b2-4a46-9292-68015a35e5b4.svg)
 
