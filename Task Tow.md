@@ -2,7 +2,8 @@
 
 # What is the suspension system?
 
-https://user-images.githubusercontent.com/101976302/182808861-9e886165-af1c-42de-9f5e-74bb7ae77044.mp4
+https://user-images.githubusercontent.com/101976302/182816615-5ba167f7-6c9f-4196-b76f-d645ef3b64ac.mp4
+
 
 # Now let's start the steps of designing this system!
 ## 1.Add Cylinder
@@ -10,6 +11,8 @@ https://user-images.githubusercontent.com/101976302/182808861-9e886165-af1c-42de
 #### To facilitate movement.
 https://user-images.githubusercontent.com/101976302/182816191-a946dea3-20e6-46a8-9030-beaf5b6f0561.mp4
 
+## 2.Add the rest of the parts 
+### To Maintain Stability.
 
 
 
