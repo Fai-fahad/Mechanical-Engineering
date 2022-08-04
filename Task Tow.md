@@ -20,7 +20,8 @@ https://user-images.githubusercontent.com/101976302/182822144-d97cc7e3-8afa-4e09
 
 https://user-images.githubusercontent.com/101976302/182825485-b05a627b-6366-4abe-85cb-7e33ad425e5c.mp4
 
- 
+ ![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns](https://user-images.githubusercontent.com/101976302/182825928-69718b3e-8a0c-4d5f-9f5f-ad5f76c158ba.png)
+
 
 
 
