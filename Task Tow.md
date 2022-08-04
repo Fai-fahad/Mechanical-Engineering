@@ -6,4 +6,7 @@ https://user-images.githubusercontent.com/101976302/182808861-9e886165-af1c-42de
 
 # Now let's start the steps of designing this system!
 ## 1.Add Cylinder
+### Select Fillet
+#### To facilitate movement.
+
 
