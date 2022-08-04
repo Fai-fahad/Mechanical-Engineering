@@ -14,5 +14,9 @@ https://user-images.githubusercontent.com/101976302/182816191-a946dea3-20e6-46a8
 ## 2.Add the rest of the parts 
 ### To Maintain Stability.
 
+https://user-images.githubusercontent.com/101976302/182822144-d97cc7e3-8afa-4e09-8feb-d17c2405c693.mp4
+
+## 2.Add Cube
+
 
 
